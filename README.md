@@ -8,7 +8,7 @@ For you ateco
   <h1>Will you be my Valentine? 💕🥰🌹</h1>
   <button onclick="alert('Yay! 💖🥰 Happy Valentine’s! 🌹')"
     style="margin-top:20px;padding:12px 25px;font-size:18px;border:none;border-radius:25px;background:#ff4d88;color:white;cursor:pointer;">
-    YES 💘
+    Click if Yes💘
   </button>
 </body>
 </html>
